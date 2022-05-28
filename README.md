@@ -7,3 +7,8 @@
 评价指标：
 计算0.5IOU下的recall和precision
 检测目标是recall >0.95  precision>0.9
+
+## 推理可视化方法
+python detect.py
+
+读取test_images路径下的图片，将检测结果存到out_images中。
